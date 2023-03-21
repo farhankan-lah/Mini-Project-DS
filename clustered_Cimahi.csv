@@ -1,0 +1,195 @@
+,street,level,median_length,median_delay,count,cluster_km
+0,Tol Padaleunyi,2,3731,262,317,2
+1,Gerbang Tol Pasteur 2,3,341,150,619,1
+2,Babakan Loa,3,368,101,86,1
+3,Mahar Martanegara,2,914,133,2412,0
+4,N11 Jenderal Haji Amir Machmud,2,1414,152,3147,0
+5,Jalan Gunung Batu,2,859,100,1513,0
+6,Jenderal Gatot Subroto,3,663,127,974,3
+7,Kerkhof,2,854,140,1737,0
+8,Kolonel Masturi,2,1031,123,2113,0
+9,Melong Raya,2,545,90,486,3
+10,Mintaredja SH,2,854,96,803,0
+11,Sukaraja,4,192,239,105,1
+12,Sangkuriang,2,922,103,856,0
+13,Sadamanah,2,759,93,254,0
+14,Nanjung Raya,2,929,111,881,0
+15,Daeng Mohammad Ardiwinata,2,959,140,2348,0
+16,Dra Hj Djulaeha Karmita,2,792,108,816,0
+17,Ibu Ganirah,2,517,105,256,3
+18,Baros,3,523,119,414,3
+19,Bumi Prima,2,193,68,1,1
+20,Cibaligo,2,1075,118,654,0
+21,Jalan Raya Kerkhof-Padakasih,1,1257,98,353,0
+22,Cijerah Raya,2,670,109,656,3
+23,Sindang Sari,2,503,88,161,3
+24,Gempol Sari,2,636,119,1011,3
+25,Jenderal Haji Amir Machmud,3,436,109,1067,3
+26,Pesantren,2,833,93,1003,0
+27,Rancabali,2,305,96,188,1
+28,Sariwangi,2,449,100,136,3
+29,Istana Pasteur Regency,3,368,273,405,1
+30,Jalan Lurah,3,370,168,650,1
+31,Bapak Ampi,3,487,103,82,3
+32,Kebon Kopi,2,665,98,356,3
+33,Melong,2,664,104,176,3
+34,N11 Gandawijaya,3,563,144,1005,3
+35,Sriwijaya,3,431,120,323,3
+36,Tol Pasteur,3,1182,174,553,0
+37,Arah Mustang/Cibogo/Gunung Batu,4,203,138,290,1
+38,Jenderal Sudirman,2,610,112,512,3
+39,Melong 1,4,196,154,5,1
+40,Melongasih,3,273,117,185,1
+41,Sam Ratulangi,3,709,120,193,3
+42,Abdul Halim,2,589,106,34,3
+43,Paledang,3,396,158,4,3
+44,Margamulya,3,374,100,141,1
+45,Haji Gofur,2,570,104,203,3
+46,Industri 4,2,481,143,105,3
+47,Gerbang Tol Baros,4,162,129,131,1
+48,Gunung Batu Dalam,3,340,79,2,1
+49,Arah Padalarang/Cileunyi/Jakarta,3,295,120,201,1
+50,Industri,2,562,101,93,3
+51,N11 Flyover Cimindi,3,632,145,169,3
+52,Exit Cimahi/Pasteur/Lembang,2,799,101,40,0
+53,Jalan Serut,3,513,202,451,3
+54,Raden Demang Harjakusumah,3,454,154,215,3
+55,Warung Contong,3,271,122,143,1
+56,Sisingamangaraja,3,505,156,201,3
+57,Budi,2,489,94,94,3
+58,Exit Baros/Cimahi/Leuwigajah,3,419,133,81,3
+59,Budhi,2,454,121,88,3
+60,Ranca Bentang,2,559,113,133,3
+61,Lapangan Tembak Utara,1,659,89,114,3
+62,Mustang,4,84,264,13,1
+63,Kamarung,3,368,108,12,1
+64,Kebon Manggu,3,346,104,11,1
+65,Tol Pasir Koja,2,1066,296,4,0
+66,Ciweleng,3,783,129,23,0
+67,Dustira,3,277,120,23,1
+68,Underpass Sriwijaya,3,424,162,56,3
+69,Pembuangan Sampah,2,1111,95,19,0
+70,Melongsari,2,336,91,23,1
+71,Cibogo,3,830,159,20,0
+72,Sirnarasa,2,449,129,111,3
+73,Torobosan,2,845,109,58,0
+74,Kyai Haji Usman Dhomiri,2,550,97,49,3
+75,Asem Timur,2,194,80,4,1
+76,Gerbang Tol Pasteur 1,3,316,112,133,1
+77,N11 Jenderal Gatot Subroto,3,478,109,243,3
+78,Reungas,2,459,152,52,3
+79,Pahlawan Desa,3,153,177,1,1
+80,Sentral,3,338,95,49,1
+81,Panday,4,246,129,4,1
+82,Arah Padalarang/Purwakarta/Jakarta,2,999,91,107,0
+83,Mutiara Raya,2,157,96,2,1
+84,Fokker Tengah 4,4,196,117,2,1
+85,Cipageran,2,531,117,72,3
+86,Babakan,2,301,102,12,1
+87,Singosari,3,350,99,23,1
+88,Borobudur Raya,2,200,82,2,1
+89,Sukarasa,2,473,114,61,3
+90,Setra Duta Raya,3,388,101,14,3
+91,Suka Indah Raya,3,251,101,7,1
+92,Cipageran Asri,4,198,130,2,1
+93,Ciuyah,2,542,160,9,3
+94,Sukahaji,3,281,198,22,1
+95,Fajar Raya Estate,3,382,98,5,3
+96,Terusan Perintis,3,169,113,12,1
+97,Babakan Muncang,2,803,83,7,0
+98,Cibogo Raya,2,327,103,3,1
+99,Artileri,4,236,61,1,1
+100,Bojong Raya,4,198,170,10,1
+101,Kararangge 1,4,271,94,2,1
+102,Sentra Utama,4,185,135,1,1
+103,Ibu Sungki,2,393,90,14,3
+104,Dream Hill Residence,4,211,129,1,1
+105,Tirta Kencana Estate,4,342,96,1,1
+106,Lapangan Tembak Selatan,2,551,81,15,3
+107,Padat Karya,2,452,101,16,3
+108,N11 Gedung Empat,3,343,115,16,1
+109,Anggaraja,2,492,74,7,3
+110,Munajan,3,370,66,4,1
+111,Sanghyang Pancanaka Hill,4,274,78,2,1
+112,Pabrik Aci,3,261,137,6,1
+113,Permana,3,210,121,13,1
+114,Cimekar,3,399,89,4,3
+115,Arah Pasir Koja/Kopo/Cileunyi,4,415,186,6,3
+116,Urip Sumoharjo,3,300,108,6,1
+117,Budi Asri,4,228,103,1,1
+118,Nusa Sari 3,2,192,78,2,1
+119,Nusa Indah Raya,4,175,121,1,1
+120,Abdulrahman,4,294,109,6,1
+121,Sangkuriang Barat 3,3,270,112,12,1
+122,Muara Takus Raya,3,212,124,3,1
+123,Martasik,2,396,142,9,3
+124,MK Wiganda Sasmita,3,287,164,58,1
+125,Ciawitali,3,248,137,35,1
+126,Pondok Dustira,2,578,76,3,3
+127,Stasiun,3,268,148,17,1
+128,Singosari Estate,4,200,165,2,1
+129,Tirta Indah,4,221,152,3,1
+130,Babakan Muncang Kidul,3,343,100,1,1
+131,Sangkuriang Barat,3,196,131,5,1
+132,Baturengat,3,670,104,9,3
+133,Jalan Gunung Rahayu,3,217,96,3,1
+134,Terusan,2,384,75,2,3
+135,Raden Embang Artawidjaja,3,300,337,7,1
+136,Permana Utara,3,219,169,3,1
+137,Sriwijaya 1,3,146,137,5,1
+138,Setraduta Cemara,2,180,80,1,1
+139,Dakota Raya,4,154,157,3,1
+140,Sarimadu,2,155,64,1,1
+141,Pesona Taman Burung,4,273,101,1,1
+142,Al Arif,3,317,92,3,1
+143,Bukit Cimindi Raya,3,354,163,3,1
+144,Setra Asri Regency,4,160,115,1,1
+145,Kapten Tata Natanegara,3,88,111,10,1
+146,Pojok Selatan,4,286,126,2,1
+147,Dakota,3,182,212,3,1
+148,Lembah Hijau Cihanjuang,3,406,114,2,3
+149,Mencut Lagadar,2,191,614,2,1
+150,El-Verde Green Living,2,234,86,2,1
+151,Somawinata,4,604,346,2,3
+152,Kebon Rumput,3,456,133,34,3
+153,Pasir Kumeli,2,329,170,4,1
+154,Permana Barat,2,344,63,2,1
+155,Kalasan 2,3,163,121,1,1
+156,Cipageran Indah 1,3,125,117,1,1
+157,Fokker Tengah 1,4,200,150,1,1
+158,Pondok Mas Raya,4,195,124,2,1
+159,Trowulan 2,4,215,140,1,1
+160,Batu Basal,5,40,-1,300,1
+161,Kota Mas 6,4,216,198,1,1
+162,Graha Alamanda,4,310,127,1,1
+163,Komplek Brigif 15 Kujang,3,324,82,3,1
+164,Apata,4,310,134,2,1
+165,Sukimun,4,286,72,1,1
+166,Trowulan 1,4,182,153,2,1
+167,Melong 4,2,294,104,2,1
+168,Pacinan,2,247,107,1,1
+169,Unjani,2,246,102,4,1
+170,Kebon Cau,3,164,138,1,1
+171,Asrama Kipal,2,239,212,1,1
+172,Pondok Mutiara Raya 2,2,162,66,1,1
+173,Cigugur Tengah,2,404,186,4,3
+174,Kihapit Timur,2,184,105,2,1
+175,Kebon Kelapa,2,218,76,1,1
+176,Sukasari,3,180,108,2,1
+177,Leuwigajah Permai,4,222,76,1,1
+178,Tani Mulya Raya,3,228,90,2,1
+179,Dirgantara,4,193,173,1,1
+180,Bukit Indah,3,203,60,1,1
+181,Kihapit Barat,3,315,104,1,1
+182,Permana Timur,2,192,88,1,1
+183,Pondok Cipta Mas,2,178,100,1,1
+184,Cijerah 2,3,304,99,3,1
+185,Budi 4,4,165,61,1,1
+186,Sambisari 3,4,201,115,1,1
+187,Perumahan Padasuka Endah,3,247,80,1,1
+188,KPAD Sapta Marga,4,186,105,1,1
+189,Elektro,2,170,67,1,1
+190,Jumbojet Raya,3,165,88,1,1
+191,Perumahan Bumi Indah,2,284,70,2,1
+192,Mekar Asih 1,2,154,97,1,1
+193,Komplek Veteran RI,4,240,118,1,1
